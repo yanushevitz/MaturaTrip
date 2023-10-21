@@ -33,29 +33,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Starożytność/Mitologia.md",
+                "file": "Dwudziestolecie międzywojenne/Informacje o epoce.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "a496a4977d575c16",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Bez nazwy.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bez nazwy.canvas",
+                "file": "Dwudziestolecie międzywojenne/Informacje o epoce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bez nazwy.canvas",
+                "file": "Dwudziestolecie międzywojenne/Informacje o epoce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bez nazwy.canvas"
+                "file": "Dwudziestolecie międzywojenne/Informacje o epoce.md"
               }
             }
           }
@@ -182,8 +167,10 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "a496a4977d575c16",
+  "active": "0e5aee7a8248d751",
   "lastOpenFiles": [
+    "Starożytność/Mitologia.md",
+    "Dwudziestolecie międzywojenne/Informacje o epoce.md",
     "Bez nazwy.canvas",
     "2023-10-21.md",
     "Bez nazwy.md",
@@ -191,13 +178,12 @@
     "Wojna",
     "Dwudziestolecie międzywojenne",
     "Młoda Polska",
-    "POzytywizm",
+    "Pozytywizm",
     "Romantyzm",
     "Oświecenie",
     "Barok",
     "Renesans",
     "Starożytność/Illiada.md",
-    "Średniowiecze",
-    "Starożytność/Mitologia.md"
+    "Średniowiecze"
   ]
 }
