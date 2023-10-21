@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "cd4afd5632ffdae1",
+    "type": "split",
+    "children": [
+      {
+        "id": "849b0e7b2b2fc7b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "900abfbbd631d4f2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "aa68a0141d4d6df2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Starożytność/Illiada.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e5aee7a8248d751",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Starożytność/Mitologia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a496a4977d575c16",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Bez nazwy.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "addc9026880a02da",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e085e3c9166838b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e43ec27aead03692",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "9303c8ff3946b00f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "575cf893b5b3cedb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9199f5ca75c4ade5",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcf69a205657c837",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1120a3045966cfb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bez nazwy.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "20488c36b717bb48",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bez nazwy.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4fe6caa237231f78",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4f170fb0156124db",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bez nazwy.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Otwórz okno szybkiej zmiany pliku": false,
+      "graph:Otwórz graf": false,
+      "canvas:Stwórz nowe płótno": false,
+      "daily-notes:Otwórz dzisiejszą notatkę": false,
+      "templates:Wstaw szablon": false,
+      "command-palette:Otwórz paletę poleceń": false
+    }
+  },
+  "active": "a496a4977d575c16",
+  "lastOpenFiles": [
+    "Bez nazwy.canvas",
+    "2023-10-21.md",
+    "Bez nazwy.md",
+    "Literatura współczesna",
+    "Wojna",
+    "Dwudziestolecie międzywojenne",
+    "Młoda Polska",
+    "POzytywizm",
+    "Romantyzm",
+    "Oświecenie",
+    "Barok",
+    "Renesans",
+    "Starożytność/Illiada.md",
+    "Średniowiecze",
+    "Starożytność/Mitologia.md"
+  ]
+}
