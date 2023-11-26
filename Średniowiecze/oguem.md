@@ -21,10 +21,10 @@
    11. plankt - 
 6. Literatura:
    1. Bogurodzica
-      - wizerunek Maryi - 
+      - wizerunek Maryi - Matka Boska w utworze została ukazana jako zwykła kobieta, rozpaczająca na widok cierpienia dziecka. Należy do wspólnoty wszystkich kobiet, które doświadczyły macierzyństwa i rozumieją uczucia spowodowane widokiem umierającego syna.
       - podmiot liryczny - zbiorowy, wypowiada się w imieniu wierzących
       - adresaci wypowiedzi - Matka Boska (przez Boga), Maryja (przez Jezusa) i Jezus (przez postać Jana Chrzciciela) 
-      - archaizmy
+      - archaizmy - słowa, które wyszły z użycia np. „zwo­le­na”, „zboż­ny”, „kmie­ciu”, „oty­ma", "Krzciciel", "zyszczy"
       - budowa pieśni - 14 nierównych strof
    2. Posłuchajcie bracia miła
       - treść/sens
@@ -34,9 +34,14 @@
       - adresaci wypowiedzi
       - dominujący środek poetycki
    3. Pieśń o Roladzie
-      - cechy rycerza
-      - śmierć bohatera
+      - cechy rycerza - Od idealnego rycerza wymagano aby był niezwykle odważny, pobożny, waleczny, bez reszty oddany swemu władcy i aby koniecznie posiadał damę swego serca, o której honor i szczęście nieustająco mógłby się troszczyć
+      - śmierć bohatera - modli się za swoich wasali, bierze róg i miecz i rusza w kierunku wzgórza. Ma coraz mniej sił, stara się zniszczyć swój miecz żeby nie dostał się w niepowołane ręce. Nie udaje mu się to, wygłasza monolog do tego miecza "Durendala". Wspina się na szczyt góry, chowa miecz pod sobą i wyciąga rękawice ku niebu. Aniołowie niosą jego dusze do nieba
       - cechy eposu jako gatunku literackiego
+        - wierszowany
+        - inwokacja
+        - dzieli się np. na księgi
+        - dotyczy prawdziwych wydarzeń historycznych lub mitologii
+        - narrator trzecioosobowy, wie wszystko jak pan Artur z 1z10
    4. Dzieje Tristana i Izoldy 
        - treść/sens
        - bohaterowie
@@ -56,6 +61,7 @@
       - ideał świętego
    8. Gal Anonim - Kronika
       - cechy kroniki
+        - 
       - ideał władcy
    9. Boska Komedia - Dante Alighieri
       <!-- - motyw ideału rycerza -->
