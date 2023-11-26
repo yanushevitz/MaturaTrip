@@ -21,12 +21,11 @@
    11. plankt - 
 6. Literatura:
    1. Bogurodzica
-      - sens/treść
-      - wizerunek Maryi
-      - podmiot liryczny
-      - adresaci wypowiedzi
+      - wizerunek Maryi - 
+      - podmiot liryczny - zbiorowy, wypowiada się w imieniu wierzących
+      - adresaci wypowiedzi - Matka Boska (przez Boga), Maryja (przez Jezusa) i Jezus (przez postać Jana Chrzciciela) 
       - archaizmy
-      - budowa pieśni
+      - budowa pieśni - 14 nierównych strof
    2. Posłuchajcie bracia miła
       - treść/sens
       - wizerunek Maryi
@@ -44,10 +43,11 @@
        - główne zdarzenia
        - cechy romansu jako gatunku literackiego
    5. Rozmowa Mistrza Polikarpa se Śmiercią
-      - przedstawienie Śmierci
-      - motyw tańca śmierci
-      - memento mori
-      - groteska
+      - Mistrz Polikarp interesował się motywem śmierci i chciał się z nią spotkać. Kiedy spotkanie nastąpiło, ogarnęła go niemoc, zaczął się gubić. Śmierć uświadamia mu swoją potęgę. Wszyscy ludzie są równi wobec śmierci
+      - przedstawienie Śmierci - rozkładające się zwłoki kobiety "Lści się jako miednica; upadł jej koniec nosa, z oczu płynie krwawa rosa"
+      - motyw tańca śmierci - motyw który powstał żeby uzmysłowić wszystkim, że śmierć dotknie każdeg, niezależnie od statusu społecznego. "Rozmowa Mistrza Polikarpa ze Śmiercią" jest doskonałym przykładem tego motywu. Polikarp pyta się, czy można jakoś jej uniknąc, proponuje nawet haracz, jednak śmierć nie ustępuje ani na krok. Jedyną osobą, której udało się uniknąc śmierci jest Jezus. 
+      - *memento mori* - pamiętaj o śmierci. Przypomnienie o tym, że śmierci nie da się uniknąć. Zwrot był uzywany przez zakonników do pozdrowień i skłaniał do troski o stan duszy i życia
+      - groteska - łączenie ze sobą skrajnych elementów które na pierwszy rzut oka nie łączą się ze sobą. W lekturze śmierć przedstawiona jest jako słaba i komiczna, jednak jest groźna i wygląda odrażająco
    6. Kwiatki św. Franciszka
        - Pieśń słoneczna
        - Cechy postawy franciszkańskiej
@@ -58,5 +58,5 @@
       - cechy kroniki
       - ideał władcy
    9. Boska Komedia - Dante Alighieri
-      - motyw ideału rycerza
-      - motyw zaświatów
+      <!-- - motyw ideału rycerza -->
+      - motyw zaświatów - w utworze zaświaty przedstawione są jako piekło, czyściec i raj. Każdy z nich ma 9 poziomów. W piekle na najwyższych poziomach znajdują się ludzie którzy popełnili najłagodniejsze przewinienia, na samym dole zaś jest Lucyfer. W 9 kręgu znajduje się Judasz, Brutus i Kasjusz (zdradzili i zamordowali Juliusza Cezara)
