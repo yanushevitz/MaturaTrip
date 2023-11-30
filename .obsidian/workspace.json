@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "849b0e7b2b2fc7b0",
+        "id": "31e566bc8bfe03f0",
         "type": "tabs",
         "children": [
           {
-            "id": "900abfbbd631d4f2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "aa68a0141d4d6df2",
+            "id": "a13e063085e25285",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Starożytność/Illiada.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e5aee7a8248d751",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dwudziestolecie międzywojenne/Informacje o epoce.md",
+                "file": "Średniowiecze/oguem.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dwudziestolecie międzywojenne/Informacje o epoce.md",
+                "file": "Średniowiecze/oguem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dwudziestolecie międzywojenne/Informacje o epoce.md",
+                "file": "Średniowiecze/oguem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dwudziestolecie międzywojenne/Informacje o epoce.md"
+                "file": "Średniowiecze/oguem.md"
               }
             }
           }
@@ -167,11 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e5aee7a8248d751",
+  "active": "a13e063085e25285",
   "lastOpenFiles": [
-    "Starożytność/Mitologia.md",
     "Starożytność/Illiada.md",
     "Dwudziestolecie międzywojenne/Informacje o epoce.md",
+    "Untitled.md",
+    "Starożytność/Mitologia.md",
     "Bez nazwy.canvas",
     "2023-10-21.md",
     "Bez nazwy.md",
