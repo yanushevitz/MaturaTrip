@@ -1,10 +1,15 @@
 # Średniowiecze
 ## Czas trwania
-    Od upadku Cesarstwa rzymskiego 476 - do odkrycia ameryki przez Kolumna w 1492, w polsce ten okres zaczął się w momencie chrztu polski w 966 roku 
+   Od upadku Cesarstwa rzymskiego 476 - do odkrycia ameryki przez Kolumna w 1492, w polsce ten okres zaczął się w momencie chrztu polski w 966 roku 
 ## Najważniejsze wydarzenia historyczne 
-**todo**
+- upadek Cesarstwa Zachodniorzymskiego 476r. 
+- Pierwsza krucjata 1096-1099
+- upadek Cesarstwa Biazntyjskiego 1453r.
+- Epidemia dżumy 1348-1350
+- Bitwa pod Grunwaldem 1410r.
+- Odkrycie ameryki przez Kolumba 1492r.
 ## Wyjaśnienie nazwy
-    pochodzi od łacińskich określeń *medium aevum* czyli "Wiek średni" i *media tempora* czyli "Średnie czasy" 
+   pochodzi od łacińskich określeń *medium aevum* czyli "Wiek średni" i *media tempora* czyli "Średnie czasy" 
 ## Kierunki filozowiczne
    1. **Tomizm** - Człowiek znajduje się na ściśle określonym szczeblu drabiny bytów między aniołami a zwierzętami. Istota ludzka sklada się z ciała - materii i duszy - formy. Boga poznaje się przez wiarę i rozum. Celem życia jest wznoszenie się na drabinie bytów coraz wyżej, walcząc z pokusami. Miarą wartości człowieka jest konsekwencja w doskonaleniu się. Przedstawicielem jest św. Tomasz z Akwinu
    2. **Augustynizm** - Człowiek to dusza uwięziona w ciele. Jest rozdarty między niebem a ziemią, dobrem a złem. Boga poznajemy poprzez miłość, intuicję i boże oświecenie. Celem człowieka jest poznanie Boga i swojej duszy, a miarą wartości człowieka jest poziom życia wewnętrznego
@@ -23,13 +28,13 @@
    11. **plankt (lament)** - charakterystyczny dla literatury średniowiecznej utwór, w którym wyraża się żal po bliskiej, zmarłej osobie i wzywa do współuczestnictwa w cierpieniu. 
 ## Literatura:
    1. Bogurodzica
-      - **wizerunek Maryi** - Matka Boska w utworze została ukazana jako zwykła kobieta, rozpaczająca na widok cierpienia dziecka. Należy do wspólnoty wszystkich kobiet, które doświadczyły macierzyństwa i rozumieją uczucia spowodowane widokiem umierającego syna.
+      - **wizerunek Maryi** - jest ona wywyższona i wszechmocna, ma władzę nad światem, może pośredniczyć pomiędzy Bogiem a jego wiernymi dziećmi
       - **podmiot liryczny** - zbiorowy, wypowiada się w imieniu wierzących
       - **adresaci wypowiedzi** - Matka Boska (przez Boga), Maryja (przez Jezusa) i Jezus (przez postać Jana Chrzciciela) 
       - **archaizmy** - słowa, które wyszły z użycia np. „zwo­le­na”, „zboż­ny”, „kmie­ciu”, „oty­ma", "Krzciciel", "zyszczy"
       - **budowa pieśni** - 14 nierównych strof
    2. Posłuchajcie bracia miła (Lament świętokrzyski)
-      - **wizerunek Maryi** - 
+      - **wizerunek Maryi** - Matka Boska w utworze została ukazana jako zwykła kobieta, rozpaczająca na widok cierpienia dziecka. Należy do wspólnoty wszystkich kobiet, które doświadczyły macierzyństwa i rozumieją uczucia spowodowane widokiem umierającego syna.
       - **wizerunek Jezusa** - matka przedstawia go przede wszystkim jako człowieka. Nie wspomina aspektów życia wiecznego, powiązania z bogiem ani świętośći - skupia się tylko na *profanum*
       - **podmiot liryczny** - Matka Boska stojąca pod krzyżem na którym wisiał Chrystus. 
       - **adresaci wypowiedzi** - ludzie otaczający ją oraz Archanioł Gabriel. Zwraca się ona z żalem, że nie spełniła się zapowiedź szczęścia, ponieważ musi patrzeć na cierpienie swojego dziecka. Kieruje słowa również do innych matek, życząc, aby nigdy nie musiały przechodzić przez to, co ona
