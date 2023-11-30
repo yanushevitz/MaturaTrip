@@ -50,9 +50,21 @@
         - narrator trzecioosobowy, wie wszystko jak pan Artur z 1z10
    4. Dzieje Tristana i Izoldy 
        - **treść/sens**
+         - Tristan to siostrzeniec i wasal króla Kornwalii, Marka. Król chce poślubić właścicielkę złotego włosa i wysyła na poszukiwania Tristana. Rycerz znajduje Izoldę Złotowłosą i płyną do Kornwalii. W czasie podróży główni bohaterowie wypijają przypadkowo napój miłosny, przygotowany przez matkę królewny dla niej i dla króla.
+
+           Od tej chwili Tristan i Izolda zakochują się w sobie. Mimo to odbywają się zaślubiny Złotowłosej z królem. Kochankowie spotykają się potajemnie. Baronowie donoszą władcy na zakochanych i karzeł Frocyn szykuje podstęp, który pozwoli ich schwytać. Tristan i Izolda zostają skazani na stos, ale cudem udaje im się uciec do puszczy. Po pewnym czasie znajduje ich leśniczy i informuje o tym króla, który idzie do kryjówki kochanków. Gdy widzi ich śpiących, rozdzielonych nagim mieczem, ogarnia go litość. Pozwala wrócić Izoldzie na dwór. Tristan żegna ukochaną i przybywa do Bretanii. Żeni się z Izoldą o Białych Dłoniach, cały czas cierpiąc i rozmyślając o Izoldzie Złotowłosej. Gdy zostaje w walce zraniony zatrutą lancą, prosi swojego przyjaciela, aby pomógł mu zobaczyć ostatni raz ukochaną. Kaherdyn płynie więc po Izoldę Złotowłosą. Gdy zbliżają się już do brzegu, zazdrosna żona mówi Tristanowi, że statek ma czarną flagę (co miało znaczyć, że nie ma na pokładzie Izoldy Złotowłosej). Tristan umiera w rozpaczy, tak samo zaraz po przybyciu jego ukochana. Po śmierci kochanków z grobu Tristana wyrasta krzak głogu i łączy go z grobem Izoldy. To symbol wiecznej, prawdziwej i niezniszczalnej miłości.
        - **bohaterowie**
+         - Tristan
+         - Izolda
+         - Frocyn
+         - król
        - **główne zdarzenia**
+         
+         - Przypadkowe wypicie przez Izoldę i Tristana napoju miłosnego, przygotowanego przez matkę królewny dla niej i króla.
        - **cechy romansu** jako gatunku literackiego
+         - utwór narracyjny, pisany prozą lub wierszem, 
+         - najczęściej jednowątkowy, 
+         - obfitujący w zawikłania sytuacyjne, intrygi, nieprawdopodobne wydarzenia
    5. Rozmowa Mistrza Polikarpa se Śmiercią
       - Mistrz Polikarp interesował się motywem śmierci i chciał się z nią spotkać. Kiedy spotkanie nastąpiło, ogarnęła go niemoc, zaczął się gubić. Śmierć uświadamia mu swoją potęgę. Wszyscy ludzie są równi wobec śmierci
       - **przedstawienie Śmierci** - rozkładające się zwłoki kobiety "Lści się jako miednica; upadł jej koniec nosa, z oczu płynie krwawa rosa"
@@ -61,14 +73,32 @@
       - **groteska** - łączenie ze sobą skrajnych elementów które na pierwszy rzut oka nie łączą się ze sobą. W lekturze śmierć przedstawiona jest jako słaba i komiczna, jednak jest groźna i wygląda odrażająco
    6. Kwiatki św. Franciszka
        - **Pieśń słoneczna**
-       - **Cechy postawy franciszkańskiej**
+       - **Cechy postawy franciszkańskiej** 
+         - przebaczenie
+         - dawanie radości światu
+         - samodoskonalenie wewnętrzne
    7. Legenda o św. Aleksym
       - **cechy legendy**
+        - Zawiera pomieszanie prawdy historycznej z fikcją i fantazją, 
+        - pojawiają się postacie historyczne (jakiś król) i bohaterowie fantastyczni  
+        - Pojawiają miejsca, np. miasta, zamki itp., które istnieją naprawdę
       - **ideał świętego**
+        - asceta
+          - podporządkowanie życia ziemskiego Bogu, wyrzeczenie się przyjemności doczesnych, życie w skrajnym ubóstwie
+          - przykładami byli św. Aleksy
+        - święty wg wzorców franciszkańskich
+          - życie podporządkowane Bogu, ale zwraca się bardsziej ku innym ludziom, naucza i niesie słowo boże
+          - przykładem jest św. Franciszek 
    8. Gal Anonim - Kronika
       - **cechy kroniki**
-      - **todo**
+        - Łączy w sobie elementy gesta z motywami fantastycznymi i cudownymi.
+         - Wydarzenia w kronice są przedstawione w porządku chronologicznym, aczkolwiek nie występują w niej daty.
+         - Subiektywizm (perspektywa przedstawionych wydarzeń zależała głównie od autora).
+         - Oryginały zazwyczaj pisane w języku łacińskim.
+         - Styl wysoki (patos).
       - **ideał władcy**
+        - jest najwyższym seniorem i następcą Boga na ziemi, ma na uwadze dobro ojczyzny i poddanych, ceni honor, jest mądry i rozważny, ma kontakt z Bogiem
+        - przykładem byli Karol Wielki, Bolesław Chrobry
    9. Boska Komedia - Dante Alighieri
-      <!-- - motyw ideału rycerza -->
+      - **motyw ideału rycerza** - człowiek stworzony do walki w imię Boga, władcy i ojczyzny, głęboko wierzący, oddaje swoje życie i miecz w służbę Bogu i Królowi, jest odważny, niezłomny, honorowy, walczy w obronie chrześcijaństwa
       - **motyw zaświatów** - w utworze zaświaty przedstawione są jako piekło, czyściec i raj. Każdy z nich ma 9 poziomów. W piekle na najwyższych poziomach znajdują się ludzie którzy popełnili najłagodniejsze przewinienia, na samym dole zaś jest Lucyfer. W 9 kręgu znajduje się Judasz, Brutus i Kasjusz (zdradzili i zamordowali Juliusza Cezara)
