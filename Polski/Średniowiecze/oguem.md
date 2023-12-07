@@ -102,3 +102,32 @@
    9. Boska Komedia - Dante Alighieri
       - **motyw ideału rycerza** - człowiek stworzony do walki w imię Boga, władcy i ojczyzny, głęboko wierzący, oddaje swoje życie i miecz w służbę Bogu i Królowi, jest odważny, niezłomny, honorowy, walczy w obronie chrześcijaństwa
       - **motyw zaświatów** - w utworze zaświaty przedstawione są jako piekło, czyściec i raj. Każdy z nich ma 9 poziomów. W piekle na najwyższych poziomach znajdują się ludzie którzy popełnili najłagodniejsze przewinienia, na samym dole zaś jest Lucyfer. W 9 kręgu znajduje się Judasz, Brutus i Kasjusz (zdradzili i zamordowali Juliusza Cezara)
+
+
+
+trzy słowa do ojca prowadzącego
+1. czas trwania
+2. najważniejsze wydarzenia
+3. wyjaśnij nazwę
+4. co to tomizm
+5. co to augustynizm
+6. co to franciszkanicm
+7. hagiografia
+8. historiografia
+9. stabat mater
+10. co to legenda
+11. co to romans rycerski
+12. asceza
+13. danse macabre
+14. co to teocentryzm
+15. co to uniwersalizm
+16. co to plankt
+17. wizerunek maryi, podmiot liryczny i adresaci wypowiedzi w bogurodzicy
+18. wizerunek maryi i jezusa, podmiot liryczny i adresaci wypowiedzi lamentu świętokrzyskiego
+19. cechy rycerza, śmierć bohatera i cechy eposu jako gatunku literackiego w pieśni o roladzie
+20. bohaterowie, główne wydarzenia i cechy romansu jako gatunku literackiego na przykładzie tristana i izoldy
+21. wizerunek śmierci, memento mori i groteska w rozmowach mistrza polikarpa ze śmiercią
+22. cechy postawy franciszkańskiej w kwiatkach św. Franciszka
+23. cechy legendy i ideał świętego w legendzie o św. aleksym
+24. cechy kroniki i ideał władcy na podstawie kroniki gala anonima
+25. ideał rycerza i motyw zaświatów w boskiej komedii
