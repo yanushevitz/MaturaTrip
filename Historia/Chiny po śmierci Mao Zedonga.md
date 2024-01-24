@@ -13,9 +13,11 @@ USA - ZSRR prowadziły w międzyczasie zimną wojnę (Xiaoping złożył propozy
 
 "Wolny rynek" w Chinach (pod kontrolą państwa). Połączenie komunizmu z wolnym rynkiem były wizją Xiaopinga co przyniosło setki miliardów wpływów do Chin co przełożyło się na wzrost gospodarczy na poziomie 10-20% PKB oraz PKB per capita według parytetu siły nabywczej (PPP) zwiększył się aż 55-krotnie, z 300 dol. w 1980 r. do 16,6 tys. dol. w 2017 r.
 
+---
 ## Polityka zagraniczna Chin
 Hongkong w ramach współpracy z USA. Wywarcie globalnego uzależnienia od Chin na rynku globalnym. 2008-2010 wyzwanie na rynku globalnym.
 
+---
 ## Polityka wewnętrzna Chin
 Konfucjanizm, akceptacja i wiara w pracę ku wyższemu celowi, przez społeczność Chin.
 
