@@ -1,6 +1,6 @@
 # Notatki Janusz & Adamus
 
-### Bierzące notatki z lekcji
+### Bieżące notatki z lekcji
 
 - [Polski](https://github.com/yanushevitz/Polski/tree/master/Polski)
 - [Historia](https://github.com/yanushevitz/Polski/tree/master/Historia)
@@ -11,7 +11,7 @@
 
 ---
 
-Pobierz sobię repo:
+Pobierz sobie repo:
 
 ```bash
 git clone https://github.com/yanushevitz/Polski.git

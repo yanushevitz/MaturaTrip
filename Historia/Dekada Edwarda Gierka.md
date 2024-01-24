@@ -9,7 +9,7 @@
 - [[#Sytuacja społeczno-ekonomiczna końcówki lat 70|Sytuacja społeczno-ekonomiczna końcówki lat 70]]
 - [[#Wybór Karola Wojtyły na papieża|Wybór Karola Wojtyły na papieża]]
 
-#### Okoliczności objęcia funkcji pierwszego sekretarza w latach 70
+## Okoliczności objęcia funkcji pierwszego sekretarza w latach 70
 **Grudzień 1970 -** PZPR przyjęto rezygnację Władysława Gomułki z funkcji I sekretarza i członka Biura Politycznego Komitetu Centralnego. Nowym I sekretarzem został Edward Gierek, dotychczasowy I sekretarz KW PZPR w Katowicach i członek Biura Politycznego KC; premierem został Piotr Jaroszewicz.
 
 Gierek przeciwieństwo Gomułki. Dopuszczony do władzy dzięki zgodzie towarzyszy z ZSRR. "Produkt zaakceptowany przez Rosję" **pionek Moskwy**.
@@ -23,7 +23,7 @@ Klęska w skutek próby połączenia gospodarki centralnie planowanej z wolnoryn
 10 potęga gospodarcza... w zbiorach ziemniaków.
 
 ---
-#### Największe inwestycje za czasów Gierka
+## Największe inwestycje za czasów Gierka
 - **Huta Katowice w Dąbrowie Górniczej**
   Nowy kombinat hutniczy był największym i najbardziej nowoczesnym zakładem metalurgicznym w PRL. Była to największa inwestycja epoki Gierka.
   
@@ -43,7 +43,7 @@ Klęska w skutek próby połączenia gospodarki centralnie planowanej z wolnoryn
   Dwutorowa i w pełni zelektryfikowana magistrala została otwarta w 1977 roku. Kursujące nią pociągi mogły rozwijać prędkość do 160 km/h.
 
 ---
-#### Polityka otwarcia na zachód
+## Polityka otwarcia na zachód
 Rządy Edwarda Gierka jako I Sekretarza **Polskiej Zjednoczonej Partii Robotniczej (PZPR)** w latach **1970–1980** charakteryzowały się próbą skierowania Polski w stronę otwarcia na Zachód.
 
 Inicjatywa ta miała na celu rozwijanie więzi gospodarczych, zwiększanie kontaktów handlowych i nawiązywanie stosunków dyplomatycznych z państwami zachodnimi. Polityka ta, znana jako "otwarcie na Zachód", dążyła do modernizacji kraju poprzez poszerzenie międzynarodowych koneksji i poprawę współpracy gospodarczej.
@@ -51,7 +51,7 @@ Inicjatywa ta miała na celu rozwijanie więzi gospodarczych, zwiększanie konta
 Jednakże skuteczność i sukces tej strategii wciąż pozostają przedmiotem dyskusji w ocenach historycznych.
 
 ---
-#### Reforma administracji
+## Reforma administracji
 **1975 -** Reforma administracyjna w Polsce była jedną z kluczowych zmian za czasów Edwarda Gierka. 
 
 Ta reforma przekształciła podział administracyjny kraju, dzieląc go na 49 województw, co zastąpiło wcześniejsze podziały na 17 regionów. 
@@ -61,7 +61,7 @@ Celem było usprawnienie zarządzania, decentralizacja władzy oraz lepsze dopas
 Reforma ta miała także wpływ na życie mieszkańców, zmieniając organizację i kompetencje jednostek administracyjnych, ale spotykała się z krytyką ze względu na koszty oraz naruszenie tradycyjnych regionalnych podziałów.
 
 ---
-#### Zwiastuny kryzysu
+## Zwiastuny kryzysu
 - Marnotrawny sposób zarządzania uzyskanymi funduszami,
 - Dysharmonijny rozwój poszczególnych gałęzi produkcji,
 - Zaniedbania w energetyce transporcie i złą politykę rolną,
@@ -70,7 +70,7 @@ Reforma ta miała także wpływ na życie mieszkańców, zmieniając organizacj�
 podniesieniem cen ropy przez kraje OPEC
 
 ---
-#### Czerwiec 76 wydarzenia w Ursusie
+## Czerwiec 76 wydarzenia w Ursusie
 Wydarzenia w Ursusie w czerwcu 1976 roku były częścią szerszych protestów społecznych w PRL. 
 
 Robotnicy z fabryki Ursus protestowali przeciwko podwyżkom cen artykułów pierwszej potrzeby, domagając się rozmów z władzami. Sytuacja narastała, gdy kierownictwo fabryki odmówiło rozmów. Robotnicy opuścili zakład, a władze próbowały uciszyć informacje o strajku, blokując komunikację.
@@ -78,7 +78,7 @@ Robotnicy z fabryki Ursus protestowali przeciwko podwyżkom cen artykułów pier
 Protestujący zablokowali linię kolejową Warszawa-Kutno, co spowodowało interwencję milicji. Oddziały milicji brutalnie stłumiły demonstrację, aresztując około 300 osób. Protestujący byli maltretowani, a wydarzenia określane jako **"ścieżki zdrowia"** wywołały oburzenie społeczne.
 
 ---
-#### Narodziny opozycji w PRL'u
+## Narodziny opozycji w PRL'u
 Opozycja w PRL narodziła się jako reakcja na restrykcje władz komunistycznych. 
 
 Początki opozycji można datować na lata 60. i 70. Przykłady wczesnych ruchów opozycyjnych obejmują działalność robotniczych protestów (jak wydarzenia czerwca 1976 roku w Radomiu i Ursusie) oraz intelektualnych środowisk dysydenckich, jak Komitet Obrony Robotników (**KOR**), Ruch Obrony Praw Człowieka i Obywatela (**ROPCiO**) czy Konfederacja Polski Niepodległej (**KPN**) to opozycyjne ugrupowania polityczne zaangażowane w walkę o niepodległość i przeciwstawianie się reżimowi komunistycznemu.
@@ -86,7 +86,7 @@ Początki opozycji można datować na lata 60. i 70. Przykłady wczesnych ruchó
 Opozycja w PRL kultywowała idee demokracji, wolności słowa i praw człowieka w warunkach autorytarnego reżimu komunistycznego.
 
 ---
-#### Sytuacja społeczno-ekonomiczna końcówki lat 70
+## Sytuacja społeczno-ekonomiczna końcówki lat 70
 W końcówce lat 70. w Polsce panowała skomplikowana sytuacja społeczno-ekonomiczna związana z rządami Edwarda Gierka:
 
 1. **Kryzys gospodarczy:** Głęboki kryzys ekonomiczny był wynikiem błędów gospodarczych, m.in. wzrostu zadłużenia i deficytu handlowego. To skłoniło do wprowadzenia restrykcyjnych środków, jak planowanie centralne czy ograniczenia konsumpcji.
@@ -102,7 +102,7 @@ W końcówce lat 70. w Polsce panowała skomplikowana sytuacja społeczno-ekonom
 Ta sytuacja doprowadziła do społecznego niezadowolenia i konfliktów, co w połączeniu z kryzysem gospodarczym stworzyło atmosferę sprzyjającą narastającym napięciom społecznym.
 
 ---
-#### Wybór Karola Wojtyły na papieża
+## Wybór Karola Wojtyły na papieża
 **1979 -** Karol Wojtyła pierwsza pielgrzymka do Polski. Na spotkanie z papieżem wyszło miliony ludzi. 
 Jest teoria, że było to potrzebne do powstania Solidarności (10 mln Polaków).
 
