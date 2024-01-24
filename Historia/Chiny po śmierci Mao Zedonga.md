@@ -1,4 +1,3 @@
-
 ## Bilans Mao
 - Wielki skok
 - Transformacje, które zniszczyły Chiny

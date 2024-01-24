@@ -1,21 +1,10 @@
-- [[#Okoliczności objęcia funkcji pierwszego sekretarza w latach 70|Okoliczności objęcia funkcji pierwszego sekretarza w latach 70]]
-- [[#Koncepcja budowy drugiej Polski (inwestycja, propaganda sukcesu)|Koncepcja budowy drugiej Polski (inwestycja, propaganda sukcesu)]]
-- [[#Największe inwestycje za czasów Gierka|Największe inwestycje za czasów Gierka]]
-- [[#Polityka otwarcia na zachód|Polityka otwarcia na zachód]]
-- [[#Reforma administracji|Reforma administracji]]
-- [[#Zwiastuny kryzysu|Zwiastuny kryzysu]]
-- [[#Czerwiec 76 wydarzenia w Ursusie|Czerwiec 76 wydarzenia w Ursusie]]
-- [[#Narodziny opozycji w PRL'u|Narodziny opozycji w PRL'u]]
-- [[#Sytuacja społeczno-ekonomiczna końcówki lat 70|Sytuacja społeczno-ekonomiczna końcówki lat 70]]
-- [[#Wybór Karola Wojtyły na papieża|Wybór Karola Wojtyły na papieża]]
-
 ## Okoliczności objęcia funkcji pierwszego sekretarza w latach 70
 **Grudzień 1970 -** PZPR przyjęto rezygnację Władysława Gomułki z funkcji I sekretarza i członka Biura Politycznego Komitetu Centralnego. Nowym I sekretarzem został Edward Gierek, dotychczasowy I sekretarz KW PZPR w Katowicach i członek Biura Politycznego KC; premierem został Piotr Jaroszewicz.
 
 Gierek przeciwieństwo Gomułki. Dopuszczony do władzy dzięki zgodzie towarzyszy z ZSRR. "Produkt zaakceptowany przez Rosję" **pionek Moskwy**.
 
 ---
-#### Koncepcja budowy drugiej Polski (inwestycja, propaganda sukcesu)
+## Koncepcja budowy drugiej Polski (inwestycja, propaganda sukcesu)
 Gierek ma pomysł "prosty" (kredyty z zachodu właściwie "nielimitowane"). Wydawanie na pepsi, pomarańcze i jeansy czy sprzęt AGD. Inwestycja w fabryki, a następnie ich sprzedaż.
 
 Klęska w skutek próby połączenia gospodarki centralnie planowanej z wolnorynkową.
