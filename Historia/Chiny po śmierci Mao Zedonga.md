@@ -28,6 +28,11 @@ Niestety, protesty zakończyły się tragicznie 4 czerwca 1989 roku, gdy rząd c
 
 Panuje system autorytarny (nie wychylasz się i nie przeszkadzasz = żyjesz spokojnie)
 
+**Polityka jednego dziecka**
+Politykę jednego dziecka w Chinach wprowadził Deng Xiaoping. Był to chiński przywódca, a decyzję o implementacji tej polityki podjął **w 1979 roku**, mając na celu kontrolę nad rosnącą populacją w kraju. Deng Xiaoping był jednym z głównych architektów reform ekonomicznych i społecznych w Chinach.
+
+Jej celem było ograniczenie wzrostu liczby ludności poprzez narzucenie limitu na liczbę dzieci, jakie mogą mieć rodziny. Zasady tej polityki były surowe, a nieprzestrzeganie ich skutkowało sankcjami, takimi jak grzywny czy utrata przywilejów.
+
 **Polityka 2+1 (problem demograficzny)**
 > Chińska Polityka 2+1, wprowadzona po zakończeniu "polityki jednego dziecka", umożliwia parom posiadanie dwójki dzieci. Zasada ta pozwala na elastyczność w planowaniu rodziny, a jednocześnie podtrzymuje kontrolę nad wzrostem populacji. Para ma opcję posiadania jednego lub dwóch dzieci, co oznacza "2+1". Ta zmiana została wprowadzona w 2016 roku, zastępując wcześniejszą politykę ograniczającą liczbę dzieci do jednego.
 > 
