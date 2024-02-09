@@ -1,7 +1,7 @@
 # Matematyka
 
-[🤓 Podstawa](Matematyka/Podstawa/readme.md)  
-[😎 Rozszerzenie](Matematyka/Rozszerzenie/readme.md)
+[🤓 Podstawa](Podstawa/readme.md)  
+[😎 Rozszerzenie](Rozszerzenie/readme.md)
 
 
 > [!NOTE]
