@@ -24,15 +24,15 @@ $y = ax + b$
 ### Miejsce zerowe
 > Przykład dla funkcji $f(x) = 5x - 15$​
 
-**Ze wzoru:**
-$x_0 = -{b \over a}$
+**Ze wzoru:**  
+$x_0 = -{b \over a}$  
 
-$x_0 = -{-15 \over 5}$
-$x_0 = {15 \over 5}$
-$x_0 = 3$
+$x_0 = -{-15 \over 5}$  
+$x_0 = {15 \over 5}$  
+$x_0 = 3$  
 
-**Przyrównujemy wzór funkcji do zera:**
-$5x - 15 = 0$
-$5x = 15$
-$x = 3$
-$x_0 = 3$
+**Przyrównujemy wzór funkcji do zera:**  
+$5x - 15 = 0$  
+$5x = 15$  
+$x = 3$  
+$x_0 = 3$  
