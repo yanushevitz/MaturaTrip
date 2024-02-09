@@ -1,9 +1,8 @@
 # Funkcje
 ## Liniowa
-**Wzór ogólny:**
-$f(x) = ax + b$
-$y = ax + b$
-
+**Wzór ogólny:**  
+$f(x) = ax + b$  
+$y = ax + b$  
 - **a -** współczynnik kierunkowy prostej
 - **b -** wyraz wolny
   
