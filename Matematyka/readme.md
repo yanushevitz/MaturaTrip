@@ -1,5 +1,5 @@
-[[Matematyka/Podstawa/index|🤓 Podstawa]]
-[[Matematyka/Rozszerzenie/index|😎 Rozszerzenie]]
+[🤓 Podstawa](Matematyka/Podstawa/readme.md)
+[😎 Rozszerzenie](Matematyka/Rozszerzenie/readme.md)
 
 
 > [!NOTE]
