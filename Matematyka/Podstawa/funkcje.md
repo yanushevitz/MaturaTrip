@@ -160,7 +160,7 @@ $f(x)=a(x−x_1)^2$
 
 **Zamiany postaci kanonicznej na ogólną**  
 Żeby zamienić wzór funkcji kwadratowej na **postać ogólną**, to wystarczy podnieść nawias do kwadratu i uprościć wyrażenie:  
-![](images/f-liniowa-zamiana.png)
+![](images/f-kwadratowa-zamiana.png)
 
 Możemy zatem zapisać wzory na współczynniki liczbowe _b_ i _c_:  
 $b=−2ap$  
@@ -184,3 +184,28 @@ $f(x)=ax^2−a(x_1+x_2)x+ax_1x_2$
 Przekształcamy najpierw postać iloczynową na postać ogólną  
 Następnie z postaci ogólnej wyliczamy współczynniki _p_ i _q_ korzystając ze wzorów  
 $p = {-b \over 2a}$                  $q = {-Δ \over 4a}$  
+
+## Wymierna
+### Co warto wiedzieć przed:
+- [wielomiany](./wielomiany.md)
+
+Funkcja, która jest ilorazem dwóch wielomianów.
+Mówiąc inaczej funkcję wymierną, można zapisać w postaci ułamka, który ma w liczniku i mianowniku wielomiany.
+
+**Wzór ogólny**  
+$f(x) = {w(x) \over p(x)}$  
+
+Gdzie:
+- $w(x)$ - dowolny wielomian
+- $p(x)$ - wielomian niezerowy
+
+![](images/f-wymierna.png)
+
+### Uproszczenie funkcji wymiernej (przykład)
+> Przykład dla funkcji $f(x) = {1 \over x} + {3x - 5 \over 2x}$
+
+$f(x) = {1 \over x} + {3x -5 \over 2x}$  
+
+$f(x) = {2 \over 2x} + {3x - 5 \over 2x}$  
+$f(x) = {2 + 3x -5 \over 2x}$  
+$f(x) = {3x - 3 \over 2x}$  
