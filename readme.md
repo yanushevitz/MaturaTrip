@@ -2,7 +2,7 @@
 
 ### Bieżące notatki z lekcji
 
-- [Polski](./Polski)
+- [Polski](./Polski/polski.md)
 - [Historia](./Historia/historia.md)
 - [Matematyka](./Matematyka/matematyka.md)
 
