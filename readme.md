@@ -2,9 +2,9 @@
 
 ### Bieżące notatki z lekcji
 
-- [Polski](https://github.com/yanushevitz/Polski/tree/master/Polski)
-- [Historia](https://github.com/yanushevitz/Polski/tree/master/Historia)
-- [Matematyka](https://github.com/yanushevitz/Polski/tree/master/Matematyka/matematyka.md)
+- [Polski](./Polski)
+- [Historia](./Historia/historia.md)
+- [Matematyka](./Matematyka/matematyka.md)
 
 ![](https://obsidian.md/images/screenshot-1.0-hero-combo.png)
 
