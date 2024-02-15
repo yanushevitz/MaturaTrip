@@ -6,18 +6,18 @@ $y = ax + b$
 - **a -** współczynnik kierunkowy prostej
 - **b -** wyraz wolny
   
-![](images/Untitled.png)  
+![](images/f-liniowa.png)  
 > Wykres funkcji $y = 2x + 1​$
 
 ### Monotoniczność funkcji
 - Rosnąca (a > 0)  
-  ![](images/Untitled%201.png)
+  ![](images/f-liniowa-2.png)
 
 - Malejąca (a < 0)  
-  ![](images/Untitled-1.png)
+  ![](images/f-liniowa-3.png)
 
 - Stała (a = 0)  
-  ![](images/Untitled%202.png)
+  ![](images/f-liniowa-4.png)
 
 ---
 ### Miejsce zerowe
@@ -51,7 +51,7 @@ Wykresem każdej funkcji kwadratowej jest **parabola**
 
 ---
 
-![](images/Untitled%203.png)
+![](images/f-liniowa-5.png)
 > Wykres funkcji $f(x) = x^2​$
 
 | x | -2 | -1 | 0 | 1 | 2 |
@@ -160,7 +160,7 @@ $f(x)=a(x−x_1)^2$
 
 **Zamiany postaci kanonicznej na ogólną**  
 Żeby zamienić wzór funkcji kwadratowej na **postać ogólną**, to wystarczy podnieść nawias do kwadratu i uprościć wyrażenie:  
-![](images/Untitled%204.png)
+![](images/f-liniowa-zamiana.png)
 
 Możemy zatem zapisać wzory na współczynniki liczbowe _b_ i _c_:  
 $b=−2ap$  
