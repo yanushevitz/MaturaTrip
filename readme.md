@@ -4,7 +4,7 @@
 
 - [Polski](https://github.com/yanushevitz/Polski/tree/master/Polski)
 - [Historia](https://github.com/yanushevitz/Polski/tree/master/Historia)
-- [Matematyka](https://github.com/yanushevitz/Polski/tree/master/Matematyka)
+- [Matematyka](https://github.com/yanushevitz/Polski/tree/master/Matematyka/matematyka)
 
 ![](https://obsidian.md/images/screenshot-1.0-hero-combo.png)
 
