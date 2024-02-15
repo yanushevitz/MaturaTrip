@@ -209,3 +209,28 @@ $f(x) = {1 \over x} + {3x -5 \over 2x}$
 $f(x) = {2 \over 2x} + {3x - 5 \over 2x}$  
 $f(x) = {2 + 3x -5 \over 2x}$  
 $f(x) = {3x - 3 \over 2x}$  
+
+## Logarytmiczna
+**Wzór ogólny**  
+$f(x) = log_ax$  
+
+Zakładamy przy tym, że $a > 0$, $a \neq 1$, $x > 0$  
+
+Wykresem tej funkcji jest krzywa która zawsze przecina oś Ox dla argumentu $x = 1$  
+Zasadniczy kształt wykresu zależy od tego czy $a > 1$ czy $a < 1$  
+
+> Wykres dla funkcji $f(x) = log_2x$
+
+![](images/f-logarytmiczna.png)
+
+| x | ${1 \over 4}$ | ${1 \over 2}$ | 1 | 2 | 4 |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| $y = log_2x$ | -2 | -1 | 0 | 1 | 2 |
+
+> Wykres dla funkcji $f(x) = log_{1 \over 2}x$
+
+![](images/f-logarytmiczna-2.png)
+
+| x | ${1 \over 4}$ | ${1 \over 2}$ | 1 | 2 | 4 |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| $y = log_{1 \over 2}x$ | 2 | 1 | 0 | -1 | -2 |
