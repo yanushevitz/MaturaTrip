@@ -234,3 +234,28 @@ Zasadniczy kształt wykresu zależy od tego czy $a > 1$ czy $a < 1$
 | x | ${1 \over 4}$ | ${1 \over 2}$ | 1 | 2 | 4 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | $y = log_{1 \over 2}x$ | 2 | 1 | 0 | -1 | -2 |
+
+## Wykładnicza
+**Wzór ogólny**  
+$f(x) = a^x$  
+
+Gdzie $a > 0$  
+Nazwa funkcji wykładniczej pochodzi od tego, że $x$ znajduje się w wykładniku  
+Wykresem funkcji $y=a^x$ jest krzywa, która zawsze przecina oś Y w punkcie 1  
+Zasadniczy kształt wykresu zależy do tego czy $a>1$ czy $a<1$.  
+
+> Wykres dla funkcji $y = 2^x$
+
+![](images/f-wykladnicza.png)
+
+| x | -1 | 0 | 1 | 2 | 3 |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| $y = 2^x$ | ${1 \over 2}$ | 1 | 2 | 4 | 8 |
+
+> Wykres dla funkcji $y = ({1 \over 2})^x$
+
+![](images/f-wykladnicza-2.png)
+
+| x | -2 | -1 | 0 | 1 | 2 |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| $y = ({1 \over 2})^x$ | 4 | 2 | 1 | ${1 \over 2}$ | ${1 \over 4}$ |
