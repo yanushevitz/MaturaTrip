@@ -15,7 +15,7 @@
 Pobierz sobie repo:
 
 ```bash
-git clone https://github.com/yanushevitz/Polski.git
+git clone https://github.com/yanushevitz/MaturaTrip.git
 ```
 
 ---
