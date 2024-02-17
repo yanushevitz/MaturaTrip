@@ -11,7 +11,7 @@
 
 ## Renesans
 - [Informacje o epoce](Renesans/informacje-o-epoce.md)  
-
+  
 - [Pieśni](Renesans/piesni.md)
 - [Treny (Kryzys światopoglądowy)](Renesans/treny.md)
 - [Piotr Skarga (Funkcja perswazyjna)](Renesans/skarga.md)
