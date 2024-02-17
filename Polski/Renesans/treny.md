@@ -1,14 +1,14 @@
 # Treny
 "Treny" Jana Kochanowskiego, zwłaszcza "Tren XI," ukazują głęboki kryzys światopoglądowy poety. W "Trenie XI," po śmierci dwuipółletniej córki Urszulki, Kochanowski przeżywa załamanie dotychczasowych ideałów filozoficznych i religijnych.  
   
-**Zwątpienie w Idee Filozoficzne:**
-- Kochanowski buntuje się wobec dotychczasowych wartości filozoficznych, co widoczne jest w wątpliwościach i refleksjach zawartych w "Trenie XI".
-**Konflikt z Religijnymi Wierzeniami:**
-- Śmierć córki zakłóca dotychczasową wiarę Kochanowskiego, co wywołuje pytania dotyczące sensu cierpienia i sprawiedliwości Bożej.
-**Opis Kulminacyjnego Momentu Załamania:**
-- "Tren XI" zajmuje szczególne miejsce w cyklu Trenów, prezentując kulminacyjny moment załamania światopoglądowego poety.
-**Rozważania nad Cnotą:**
-- Przeżywając kryzys, Kochanowski rozważa znaczenie cnoty, co widoczne jest w tytule "Fraszka cnota! - powiedział Brutus porażony".
+**Zwątpienie w Idee Filozoficzne:**  
+- Kochanowski buntuje się wobec dotychczasowych wartości filozoficznych, co widoczne jest w wątpliwościach i refleksjach zawartych w "Trenie XI".  
+**Konflikt z Religijnymi Wierzeniami:**  
+- Śmierć córki zakłóca dotychczasową wiarę Kochanowskiego, co wywołuje pytania dotyczące sensu cierpienia i sprawiedliwości Bożej.  
+**Opis Kulminacyjnego Momentu Załamania:**  
+- "Tren XI" zajmuje szczególne miejsce w cyklu Trenów, prezentując kulminacyjny moment załamania światopoglądowego poety.  
+**Rozważania nad Cnotą:**  
+- Przeżywając kryzys, Kochanowski rozważa znaczenie cnoty, co widoczne jest w tytule "Fraszka cnota! - powiedział Brutus porażony".  
 ## Tren 9
 W Trenie 9 Jan Kochanowski ironicznym tonem podchodzi do stoickiej mądrości, przedstawiając ją jako hipotetyczne lekarstwo na ludzkie smutki. Ironicznie wylicza zalety tej mądrości, a nawet proponuje jej zakupienie za pieniądze. Całość utworu stanowi krytyczny komentarz do ideałów stoicyzmu.
 ### Motyw Mądrości
