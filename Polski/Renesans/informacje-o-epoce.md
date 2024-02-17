@@ -31,7 +31,7 @@ Utwór liryczny o patetycznym charakterze. Zawiera pochwałę bóstwa, człowiek
 Inaczej płacz, żal, lament. Krótki utwór wierszowany, liryczny, wyraża ból i smutek po stracie bliskiej osoby, ale także pochwałę zalet zmarłego. Tren jako gatunek pochodzi z poezji funeralnej (żałobnej).
 ## Sztuka renesansu
 ### Architektura
-Architekturę epoki renesansu wyróżniały duże okna, półokrągłe łuki, złocone lub miedziane kopuły, ozdobne krużganki (kryte galerie z arkadami otaczające dziedziniec, często ozdobione rzeźbionymi detalami), attyki, podcienia, szerokie budowle, dobrze osadzone w linii poziomej, kolumny nawiązujące do epoki starożytnej – kapitele w typowo greckim stylu.
+Architekturę epoki renesansu wyróżniały duże okna, półokrągłe łuki, złocone lub miedziane kopuły, ozdobne krużganki (kryte galerie z arkadami otaczające dziedziniec, często ozdobione rzeźbionymi detalami), attyki, podcienia, szerokie budowle, dobrze osadzone w linii poziomej, kolumny nawiązujące do epoki starożytnej – kapitele w typowo greckim stylu.  
 
 Styl renesansowy w architekturze wyróżniał się przede wszystkim harmonią, proporcjonalnością, nawiązywaniem do antycznych wzorów oraz umiarkowaniem w stosowaniu linii i kształtu.
 ### Malarstwo i rzeźba
@@ -46,3 +46,7 @@ Ponadto sztuka renesansowa wiele czerpała z antyku – artyści wykorzystywali 
 - Sandro Botticelli - _Narodziny Wenus_  
 - Antonio Correggio - _Madonna ze św. Jerzym_, _Madonna ze św. Hieronimem_  
 - Pieter Bruegel - _Upadek Ikara_, _Ślepcy_
+## Ważne pojęcia związane z epoką
+**Horacjanizm** – to łączenie w poezji postawy zgodnej z filozofią stoicyzmu i epikureizmu. To także swoisty dialog z twórczością Horacego, który był mistrzem dla Kochanowskiego. Czarnoleski poeta tłumaczył i parafrazował pieśni starożytnego mistrza, czerpał z jego dorobku również tematy i motywy dla swojej twórczości.  
+
+**Artysta renesansowy** – osoba wyjątkowa, twórca mający świadomość własnej wartości, przekonany o swojej wyjątkowości, gdyż za pomocą sztuki, którą tworzy może stać się „nieśmiertelny”.

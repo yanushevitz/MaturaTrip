@@ -10,7 +10,7 @@
 - [Mitologia](./Starożytność/Mitologia.md)
 
 ## Renesans
-- [Informacje o epoce](Renesans/informacje-o-epoce.md)
+- [Informacje o epoce](Renesans/informacje-o-epoce.md)  
 
 - [Pieśni](Renesans/piesni.md)
 - [Treny (Kryzys światopoglądowy)](Renesans/treny.md)
