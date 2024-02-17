@@ -3,10 +3,13 @@
   
 **Zwątpienie w Idee Filozoficzne:**  
 - Kochanowski buntuje się wobec dotychczasowych wartości filozoficznych, co widoczne jest w wątpliwościach i refleksjach zawartych w "Trenie XI".  
+  
 **Konflikt z Religijnymi Wierzeniami:**  
 - Śmierć córki zakłóca dotychczasową wiarę Kochanowskiego, co wywołuje pytania dotyczące sensu cierpienia i sprawiedliwości Bożej.  
+  
 **Opis Kulminacyjnego Momentu Załamania:**  
 - "Tren XI" zajmuje szczególne miejsce w cyklu Trenów, prezentując kulminacyjny moment załamania światopoglądowego poety.  
+  
 **Rozważania nad Cnotą:**  
 - Przeżywając kryzys, Kochanowski rozważa znaczenie cnoty, co widoczne jest w tytule "Fraszka cnota! - powiedział Brutus porażony".  
 ## Tren 9
