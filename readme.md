@@ -5,6 +5,7 @@
 - [Polski](./Polski/polski.md)
 - [Historia](./Historia/historia.md)
 - [Matematyka](./Matematyka/matematyka.md)
+- [WOS](WOS/WOS.md)
 
 ![](https://obsidian.md/images/screenshot-1.0-hero-combo.png)
 
