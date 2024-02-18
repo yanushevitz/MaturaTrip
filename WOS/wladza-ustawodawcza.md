@@ -19,15 +19,15 @@ Mandat poselski jest **generalny**, poseł wyraża wolę narodu, **niezależny**
 	- Komisje nadzwyczajne
 	- Komisje śledcze
 ## Funkcje parlamentarne
-- Funkcja ustrojodawcza
+- Funkcja ustrojodawcza  
 	Tylko parlament ma prawo wprowadzać zmiany w konstytucji
-- Funkcja ustawodawcza
+- Funkcja ustawodawcza  
 	Tworzenie prawa przez ustawy
-- Funkcja kontrolna
+- Funkcja kontrolna  
 	Praca kontroli rządu poprzez wotum zaufania / wotum nieufności
 	- Absolutorium (Zatwierdzenie budżetu państwa)
 	- Zapytania interpelacje poselskie
-- Funkcja kreacyjna
+- Funkcja kreacyjna  
 	Parlament ma prawo współtworzenia organizacji państwowych np. tworzenie rządu, wybór członków trybunału stanu, członków rady polityki zewnętrznej, krajowej rady sądownictwa **KRS**, krajowej rady radiofonii i telewizji, najwyższej izby kontroli **NIK**
 
 ---
