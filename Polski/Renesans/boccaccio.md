@@ -1,5 +1,5 @@
 # Sokół
-> [!WARNING]
+> [!CAUTION]
 > Autor tego dzieła prawdopodobnie już zapierdala na galerze
 
 - Autor: Giovanni Boccacio
