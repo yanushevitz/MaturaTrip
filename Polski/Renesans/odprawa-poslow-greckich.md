@@ -1,7 +1,7 @@
 # Odprawa Posłów Greckich
 - Autor: Jan Kochanowski
 - Gatunek: Dramat
-- Rok wydania: 1578r.
+- Rok wydania: 1578
 ## Reference
 Utwór jest nawiązaniem do wojny trojańskiej. Aleksander (syn króla Troi, Proama) porwał Helenę, żonę Menelaosa (Greka). Spartanie wysłali do Troi posłańców, aby pokojowo załatwić sprawę. Utwór opisuje, w jaki sposób posłowie zostali odprawienie
 ## Skrót
