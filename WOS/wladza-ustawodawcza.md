@@ -6,6 +6,12 @@
 - Zasada proporcjonalności
 - Zasada tajności (wybór dobrowolny, tajny)
 
+- **Zasada powszechności –** każdy obywatel ma czynne (prawo wyboru) i bierne prawo wyborcze (prawo kandydowania). Czynne prawo wyborcze w wyborach do Sejmu i Senatu przysługuje od 18 roku życia. Posłem można zostać w wieku 21 lat, a senatorem – 30 lat.
+- **Zasada równości –** każdy wyborca dysponuje jednakową ilością głosów, a więc każdy głos ma równą wagę i znaczenie 
+- **Zasada bezpośredniości –** wybory posła czy senatora dokonuje sam wyborca
+- **Zasada proporcjonalności –** oznacza, że liczba mandatów, które przypadną partii jest wprost proporcjonalna do liczby oddanej na nią głosów (procentowo)
+- **Zasada tajności –** każdy wyborca może zachować dokonany wybór w tajemnicy
+
 Mandat poselski jest **generalny**, poseł wyraża wolę narodu, **niezależny**, **nieodwołalny**.
 ## Organizacja sejmu
 - Marszałek sejmu
