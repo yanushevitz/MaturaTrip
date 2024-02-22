@@ -20,12 +20,11 @@ $`\sqrt[3]4 * \sqrt[3]5 = \sqrt[3]{4*5} = \sqrt[3]{20}`$
 $\sqrt[3]20 : \sqrt[3]10 = \sqrt[3]{20:10} = \sqrt[3]2$  
 ${\sqrt[3]20 \over \sqrt[3]10} = \sqrt[3]{20 \over 10} = \sqrt[3]2$
 ### Konwersja
-- $\sqrt3 = 3^{1\over2}$  
-- $\sqrt[5]8 = 8^{1\over5}$  
-<br>
-<br>
-- $`\sqrt[n]{a^m} = a^{m\over n}`$  
-- $`\sqrt[3]16 = \sqrt[3]{2^4} = 2^{4 \over 3}`$  
+$\sqrt3 = 3^{1\over2}$  
+$\sqrt[5]8 = 8^{1\over5}$  
+
+$`\sqrt[n]{a^m} = a^{m\over n}`$  
+$`\sqrt[3]16 = \sqrt[3]{2^4} = 2^{4 \over 3}`$  
 ### Wzory skróconego mnożenia
 $(a+b)^2 = a^2 + 2ab + b^2$  
 $(\sqrt2 + 1)^2 = \sqrt2^2 + 2*\sqrt2*1 + 1^2 = 2 + 2\sqrt2 + 1 = 3 + 2\sqrt2$  
