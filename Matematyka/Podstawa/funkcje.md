@@ -53,7 +53,7 @@ $(y - y_1)(x_2 - x_1) - (y_2 - y_1)(x - x_1) = 0$
 $y - y_1 = a(x - x_1)$
 
 ### Typ układu
-$\left\{\begin{matrix}a_1x + b_1y = c_1\\a_2x + b_2y = c_2\end{matrix}\right.$
+$\left\{{a_1x + b_1y = c_1 \over a_2x + b_2y = c_2}\right.$
 ## Kwadratowa
 **Wzór ogólny:**  
 $f(x) = ax^2 + bx + c$  
