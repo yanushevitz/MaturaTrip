@@ -44,7 +44,16 @@ $y = a_1x + b_1$  **⟂**  $y = a_2 + b_2$ $<=>$ $a_1 * a_2 = -1$
 
 ### Współczynnik kierunkowy prostej przechodzącej przez 2 punkty
 $A = (x_1, y_2)$ $B = (x_2,y_2)$  
-$a = {y_2 - y_1 \over x_2 - x_1}$
+$a = {y_2 - y_1 \over x_2 - x_1}$  
+
+### Równanie prostej przechodzącej przez 2 punkty
+$(y - y_1)(x_2 - x_1) - (y_2 - y_1)(x - x_1) = 0$  
+
+### Równanie prostej o danym współczynniku kierunkowym przechodzącej przez dany punkt A
+$y - y_1 = a(x - x_1)$
+
+### Typ układu
+$\left\{\begin{matrix}a_1x + b_1y = c_1\\a_2x + b_2y = c_2\end{matrix}\right.$
 ## Kwadratowa
 **Wzór ogólny:**  
 $f(x) = ax^2 + bx + c$  
