@@ -66,6 +66,8 @@ $y = ax^2 + bx + c$
 Gdzie _a_, _b_ oraz _c_ są współczynnikami liczbowymi  
 Wykresem każdej funkcji kwadratowej jest **parabola**
 
+**Punkt $(0 , c)$ -** Jest to punkt, w którym parabola przecina się z osią Y 
+
 **Funkcją kwadratową nazywamy taką funkcję, we wzorze której:**  
 - musi wystąpić $x^2$
 - może wystąpić $x$
@@ -119,7 +121,7 @@ Oś symetrii paraboli zawsze przechodzi przez wierzchołek paraboli.
 ---
 
 ### Postacie funkcji kwadratowej:
-- **Postać ogólna**  
+#### Postać ogólna  
   $f(x) = ax^2 + bx + c$  
 
 Gdzie _a_, _b_, _c_ są współczynnikami liczbowymi i _a_ ≠ 0  
@@ -133,7 +135,7 @@ Miejsca zerowe obliczamy z delty Δ
 Obliczenie wierzchołka wykresu obliczamy za pomocą wzoru:
 $W=({−b \\over 2a} , {−Δ \\over 4a})$
 
-- **Postać kanoniczna  
+#### Postać kanoniczna  
   $f(x) = a(x - p)^2 + q$  
 
 Gdzie _a_, _p_, _q_ są współczynnikami liczbowymi i _a_ ≠ 0
@@ -145,14 +147,21 @@ Zaletą postaci kanonicznej jest to, że widać z niej od razu współrzędne wi
 
 Dodatkowo po współczynniku a możemy określić, czy ramiona paraboli są skierowane do góry (a>0), czy do dołu (a<0).
 
-- **Postać iloczynowa**  
-  $f(x) = a(x - x_1)(x - x_2)$  
+$x = p$ - równanie osi symetrii paraboli 
+
+#### Postać iloczynowa 
+$\Delta > 0 \rightarrow f(x) = a(x - x_1)(x - x_2)$  
+$\Delta = 0 \rightarrow f(x) = a(x - x_0)^2$  
+$\Delta < 0 \rightarrow$ nie istnieje  
 
 W powyższym wzorze $a$ jest współczynnikiem liczbowym, takim, że $a≠0$. $x_1$ i $x_2$ są miejscami zerowymi funkcji $f(x)$.
 
 Zaletą postaci iloczynowej jest to, że widać z niej od razu miejsca zerowe funkcji kwadratowej.
 
 Po współczynniku _a_ możemy określić również, czy ramiona paraboli są skierowane do góry (_a_>0), czy do dołu (_a_<0).
+
+$p = {x_1 + x_2 \over 2}$  
+$q = f(p)$  
 
 ---
 
