@@ -44,9 +44,7 @@ $y = a_1x + b_1$  **⟂**  $y = a_2 + b_2$ $<=>$ $a_1 * a_2 = -1$
 
 ### Współczynnik kierunkowy prostej przechodzącej przez 2 punkty
 $A = (x_1, y_2)$ $B = (x_2,y_2)$  
-$$
-a = {y_2 - y_1 \over x_2 - x_1}
-$$
+$$ a = {y_2 - y_1 \over x_2 - x_1} $$  
 ## Kwadratowa
 **Wzór ogólny:**  
 $f(x) = ax^2 + bx + c$  
