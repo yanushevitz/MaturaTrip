@@ -34,3 +34,42 @@ $(\sqrt3 - 2)^2 = \sqrt3^2 - 2*\sqrt3*2+2^2 = 3 - 4\sqrt3+4 = 7 - 4\sqrt3$
 
 $(a-b)(a+b) = a^2 - b^2$  
 $(3 - \sqrt7)(3 + \sqrt7) = 3^2 - \sqrt7^2 = 9 - 7 = 2$  
+## Logarytmy
+$log_ab = c <=> a^c = b$  
+
+$a, b > 0$  
+$a \neq 1$  
+
+$log_28=3\rightarrow 2^3=8$  
+$log_381=4\rightarrow 3^4=81$  
+### Przykłady
+$log_{2\sqrt{2}}16 = c$  
+$(2\sqrt{2})^c=16$  
+$(2*2^\frac{1}{2})^c=2^4$  
+$(2^\frac{3}{2})^c=2^4$  
+$2^{\frac{3}{2}c}=2^4$  
+
+$\frac{3}{2}c = 4$  
+$c = 4 * \frac{2}{3}=\frac{8}{3}$  
+---
+$log_3 9\sqrt{3}=c$  
+$3^c = 9\sqrt{3}$  
+$3^c = 3^2 * 3^\frac{1}{2}$  
+$3^c = 3^{2\frac{1}{2}}$  
+$c = 2 \frac{1}{2}$
+### Dodawanie logarytmów o tych samych podstawach
+**Przy dodawaniu logarytmów o tych samych podstawach, liczbę logarytmowaną mnożymy**  
+$log_aX+log_aY=log_aX*Y$  
+
+$log_22+log_232=log_22*32=log_264=6$  
+### Odejmowanie logarytmów o tych samych podstawach
+**Przy odejmowaniu logarytmów o tych samych podstawach, liczbę logarytmowaną dzielimy**  
+$log_aX-log_aY=log_aX:Y$  
+
+$log_354-log_32=log_354:2=log_327=3$  
+### Logarytm z potęgą lub z liczbą przed logarytmem
+$x*log_ab=log_ab^x$  
+$2*log_24=log_24^2=log_216=4$  
+### Logarytm bez podstawy (dziesiętny)
+**Jeżeli przy podstawie logarytmu nie ma żadnej liczby jest tam liczba 10**  
+$log1000=log_{10}1000=3$  
