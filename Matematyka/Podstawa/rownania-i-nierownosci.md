@@ -80,4 +80,6 @@ $|x + 3| = -4$
 
 Zanim weźmiemy się za rozwiązywanie tego równania możemy zauważyć że naszym wynikiem ma być liczba ujemna, która nie może nam wyjść spod wartości bezwzględnej jest to **RÓWNANIE SPRZECZNE**  
 ## Układy równań
-$\left\{\begin{matrix}2 \\\ 2 \end{matrix}\right.$
+```math  
+\begin{bmatrix}X\\Y\end{bmatrix}  
+```
