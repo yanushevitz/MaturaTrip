@@ -96,13 +96,25 @@ Zanim weźmiemy się za rozwiązywanie tego równania możemy zauważyć że nas
 \end{matrix}\right.
 ```
 ```math
-11y = 22 \\
-y = 2 \\
-2x = 12 - 5 * 2 \\
-2x = 12 - 10 \\
-2x = 2 \\
-x = 1 \\
+11y = 22
+```
+```math
+y = 2
+```
+```math
+2x = 12 - 5 * 2
+```
+```math
+2x = 12 - 10
+```
+```math
+2x = 2
+```
+```math
+x = 1
+```
 
-x = 1 \\
-y = 2 \\
+```math
+x = 1
+y = 2
 ```
