@@ -54,3 +54,28 @@ $4 * (-2) + 3 \geqslant 2$
 $-8 + 3 \geqslant 2$  
 $-5 \ngeqslant 2$  ❌  
 
+## Równania i nierówności z wartością bezwzględną
+$|x + 4| = 9$  
+### Metoda geometryczna
+Bierzemy liczbę z wartości bezwzględnej, która wyzeruje wartość w niej zawartą w tym przypadku będzie to -4 bo $-4 + 4 = 0$  
+
+Następnie odejmujemy i dodajemy do niej wartość którą mamy wyliczyć, w tym przypadku będzie to 9
+
+![](images/rin-bezwzgledna.png)  
+
+Bo $-4 - 9 = -13$ i $-4 + 9 = 5$  
+Więc zbiór liczb, które spełniają równanie wygląda następująco: $x \in \{-13, 5\}$  
+
+$|-13 + 4| = |-9| = 9$  
+$|5 + 4| = |9| = 9$  
+### Metoda algebraiczna (Rekomendowana)
+Rekomendowana gdyż niektórych zadań nie da się rozwiązać metodą geometryczną  
+
+$x + 4 = 9$ lub $x + 4 = -9$
+$x = 9 - 4$ lub $x = -9 - 4$  
+x = 5 lub x = -13
+
+### Pułapka
+$|x + 3| = -4$  
+
+Zanim weźmiemy się za rozwiązywanie tego równania możemy zauważyć że naszym wynikiem ma być liczba ujemna, która nie może nam wyjść spod wartości bezwzględnej jest to **RÓWNANIE SPRZECZNE**  
