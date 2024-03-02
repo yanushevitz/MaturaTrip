@@ -113,10 +113,51 @@ y = 2
 ```math
 x = 1
 ```
-<br><br>
+<br>
 ```math
 x = 1  
 ```
 ```math
 y = 2
 ```
+
+Ten x i y to współrzędne przecięcia się prostych w interpretacji geometrycznej
+### Układ równań nieoznaczony
+Ma nieskończenie wiele rozwiązań rozpoznajemy go przez fakt iż wyjdzie nam po prostu 0  
+![](images/rin-nieoznaczony.png)  
+
+### Układ równań sprzeczny
+Gdy wyjdzie nam wynik sprzeczny mamy do czynienia z układem sprzecznym  
+![](images/rin-sprzeczny.png)  
+
+### Interpretacja geometryczna układu równań
+![](images/rin-interpretacja-geometryczna.png)  
+
+| x   | -1  | 0   | 1   |
+| --- | --- | --- | --- |
+| y   | 7   | 5   | 3   |
+
+| x   | -1  | 0   | 1   |
+| --- | --- | --- | --- |
+| y   | 2   | 4   | 6   |
+
+![](images/rin-interpretacja-geometryczna2.png)  
+### Interpretacja geometryczna układu równań nieoznaczonego
+![](images/rin-interpretacja-geometryczna-nieoznakowanego.png)  
+
+| x   | -1  | 0   | 1   |
+| --- | --- | --- | --- |
+| y   | 7   | 5   | 3   |
+![](images/rin-interpretacja-geometryczna-nieoznakowanego2.png)  
+### Interpretacja geometryczna układu równań sprzecznego
+![](images/rin-interpretacja-geometryczna-sprzecznego.png)  
+
+| x   | -1  | 0   | 1   |
+| --- | --- | --- | --- |
+| y   | 7   | 5   | 3   |
+
+| x   | -1  | 0   | 1   |
+| --- | --- | --- | --- |
+| y   | 4   | 2   | 0   |
+![](images/rin-interpretacja-geometryczna-sprzecznego2.png)  
+
