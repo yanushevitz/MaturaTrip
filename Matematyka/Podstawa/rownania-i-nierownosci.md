@@ -142,13 +142,14 @@ Gdy wyjdzie nam wynik sprzeczny mamy do czynienia z układem sprzecznym
 | --- | --- | --- | --- |
 | y   | 2   | 4   | 6   |
 
-![](images/rin-interpretacja-geometryczna2.png)  
+![](images/rin-interpretacja-geometryczna2.png)    
 ### Interpretacja geometryczna układu równań nieoznaczonego
 ![](images/rin-interpretacja-geometryczna-nieoznakowanego.png)  
 
 | x   | -1  | 0   | 1   |
 | --- | --- | --- | --- |
 | y   | 7   | 5   | 3   |
+
 ![](images/rin-interpretacja-geometryczna-nieoznakowanego2.png)  
 ### Interpretacja geometryczna układu równań sprzecznego
 ![](images/rin-interpretacja-geometryczna-sprzecznego.png)  
@@ -160,5 +161,6 @@ Gdy wyjdzie nam wynik sprzeczny mamy do czynienia z układem sprzecznym
 | x   | -1  | 0   | 1   |
 | --- | --- | --- | --- |
 | y   | 4   | 2   | 0   |
+
 ![](images/rin-interpretacja-geometryczna-sprzecznego2.png)  
 
