@@ -1,6 +1,6 @@
 # Podstawa
 - [✅ Liczby rzeczywiste](liczby-rzeczywiste.md)
-- [Przedziały i zbiory](przedzialy-i-zbiory.md)
+- [✅ Przedziały i zbiory](przedzialy-i-zbiory.md)
 - [Wyrażenia Algebraiczne](wyrazenia-algebraiczne.md)
 - [Równania i Nierówności](rownania-i-nierownosci.md)
 - [Funkcje](funkcje.md)
