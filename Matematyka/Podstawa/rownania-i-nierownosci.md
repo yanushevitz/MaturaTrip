@@ -113,14 +113,15 @@ y = 2
 ```math
 x = 1
 ```
+
 <br>
+
 ```math
 x = 1  
 ```
 ```math
 y = 2
 ```
-
 Ten x i y to współrzędne przecięcia się prostych w interpretacji geometrycznej
 ### Układ równań nieoznaczony
 Ma nieskończenie wiele rozwiązań rozpoznajemy go przez fakt iż wyjdzie nam po prostu 0  
