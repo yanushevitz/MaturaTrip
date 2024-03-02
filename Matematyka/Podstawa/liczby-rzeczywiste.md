@@ -68,8 +68,8 @@ $log_aX-log_aY=log_aX:Y$
 
 $log_354-log_32=log_354:2=log_327=3$  
 ### Logarytm z potęgą lub z liczbą przed logarytmem
-$x*log_ab=log_ab^x$  
-$2*log_24=log_24^2=log_216=4$  
+$x * log_a b = log_a b^x$  
+$2 * log_2 4 = log_2 4^2 = log_2 16 = 4$  
 ### Logarytm bez podstawy (dziesiętny)
 **Jeżeli przy podstawie logarytmu nie ma żadnej liczby jest tam liczba 10**  
 $log1000=log_{10}1000=3$  
