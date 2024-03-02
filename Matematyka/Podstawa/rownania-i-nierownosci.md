@@ -85,3 +85,24 @@ Zanim weźmiemy się za rozwiązywanie tego równania możemy zauważyć że nas
 2x + 5y = 12 \\ 3x + 2y = 7 
 \end{matrix}\right. 
 ```
+```math
+\left\{\begin{matrix}
+2x + 5y = 12 /*3 \\ 3x + 2y = 7 /*2 
+\end{matrix}\right. 
+```
+```math
+\left\{\begin{matrix}
+6x + 15y = 36 \\ 6x + 4y = 14 
+\end{matrix}\right.
+```
+```math
+11y = 22
+y = 2
+2x = 12 - 5 * 2
+2x = 12 - 10
+2x = 2
+x = 1
+
+x = 1
+y = 2
+```
