@@ -164,3 +164,105 @@ Gdy wyjdzie nam wynik sprzeczny mamy do czynienia z układem sprzecznym
 
 ![](images/rin-interpretacja-geometryczna-sprzecznego2.png)  
 
+## Równania kwadratowe
+$ax^{2} + bx + c = 0$  
+$4x^{2} + 4x - 3 = 0$  
+
+### Wzory
+$\Delta = b^{2} - 4ac$
+$x_1 = \frac{-b-\sqrt{\Delta}}{2a}$  
+$x_2 = \frac{-b+\sqrt{\Delta}}{2a}$  
+
+$x_{0}=  \frac{-b}{2a}$  
+
+### Przykładowe rozwiązanie
+$4x^{2} + 4x - 3 = 0$  
+
+$a = 4$  
+$b = 4$  
+$c = -3$  
+
+$\Delta = 4^{2} - 4 * 4 * (-3) = 16 + 48 = 64$  
+$\sqrt{\Delta} = 8$  
+
+$x_{1} = \frac{-4-8}{2*4} = \frac{-12}{8} = -1 \frac{1}{2}$  
+$x_{2} = \frac{-4+8}{2*4} = \frac{4}{8} = \frac{1}{2}$  
+
+### Liczba rozwiązań zależna od delty
+| Delta        | Ilość rozwiązań |
+| ------------ | --------------- |
+| $\Delta > 0$ | 2 rozwiązania   |
+| $\Delta = 0$ | 1 rozwiązanie   |
+| $\Delta < 0$ | Brak rozwiązań  |
+## Nierówności kwadratowe
+$x(7x + 2) > 7x + 2$  
+$7x^{2}+ 2x > 7x + 2$  
+$7x^{2}+ 2x - 7x -2 > 0$  
+$7x^{2}- 5x - 2 > 0$  
+
+$\Delta = b^{2}- 4ac$  
+$\Delta = (-5)^{2} - 4 * 7 * (-2) = 25 + 56 = 81$  
+$\sqrt{\Delta} = 9$  
+
+$x_{1}= \frac{-(-5)+9}{2*7} = \frac{14}{14} = 1$  
+$x_{2}= \frac{-(-5)-9}{2*7} = \frac{-4}{14} = -\frac{2}{7}$  
+
+Do tego momentu rozwiązujemy jak zwykłe równanie kwadratowe. Kolejnym krokiem jest sprawdzenie czy $a$ jest dodatnie czy ujemne. W tym przypadku $a = 7$ czyli jest dodatnie, co oznacza że na wykresie ramiona funkcji będą szły w górę.
+> $a > 0$ - wykres ramionami do góry  
+> $a < 0$ - wykres ramionami do dołu  
+
+![](images/rin-nierownosci-kwadratowe.png)  
+
+Zaznaczamy następnie to o co nas pytają czy wartości mają być ujemne czy dodatnie. W naszym przypadku będą to wartości dodatnie.  
+
+![](images/rin-rownania-kwadratowe2.png)  
+
+**Więc:** $x \in (-\infty, -\frac{2}{7}) \sqcup (1, \infty)$  
+
+Oczywiście nawiasy zależą od tego czego chcą w zadaniu. Ostre ("<" i ">") gdy pytają nas o wartości $\leqslant$ lub $\geqslant$ i zwykłe gdy pytają o wartości < lub >.  
+
+**WAŻNE nawet gdy $\Delta$ jest ujemna nierówność kwadratowa ma rozwiązanie. x może należeć do zbioru pustego lub zbioru liczb rzeczywistych**  
+
+## Równania wymierne
+$\frac{x-3}{x+4} = 0$  
+Pierwszym krokiem przy równaniu wymiernym jest zrobienie założeń. Oznacza to że mianownik naszego równania musi być różne od zera.  
+
+Z: $x + 4 \neq 0$  
+Z: $x \neq -4 \leftarrow$ Nasze rozwiązanie nie może równać się -4  
+
+Następnie przystępujemy do rozwiązania.
+$\frac{x-3}{x+4} = 0$  /$*$ $(x+4)$  
+$x - 3 = 0$  
+$x = 3 \leftarrow$ Rozwiązanie równania  
+
+### Przykładowe rozwiązania
+$\frac{(x-1)(x+2)}{x-3} = 0$  
+
+Z: $x - 3 \neq 0$  
+Z: $x \neq 3$  
+
+$\frac{(x-1)(x+2)}{x-3} = 0$  / $*$ $(x - 3)$    
+$(x-1)(x+2) = 0$  
+#### 1 sposób
+$x^{2} + 2x -x -2 = 0$  
+$x^{2}+x-2 = 0 \leftarrow$ Widzimy, że powstało nam równanie kwadratowe, czyli dalej delta
+
+$\Delta = (-1)^{2} - 4 * 1 * (-2) = 1 + 8 = 9$  
+$\sqrt{\Delta} = 3$  
+
+$x_{1} = \frac{-1-3}{2*1} = \frac{-4}{2} = -2$  
+$x_{2} = \frac{-1+3}{2*1} = \frac{2}{2} = 1$  
+
+$x \in \{-2,1\}$  
+#### 2 sposób
+$(x-1)(x+2) = 0$  
+$x_1 - 1 = 0$  
+$x_1 = 1$  
+
+$x_{2} + 2 = 0$  
+$x_{2} = -2$  
+
+$x_{1}= 1$  
+$x_{2}= -2$  
+
+$x \in \{-2,1\}$  
