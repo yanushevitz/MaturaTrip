@@ -1,0 +1,9 @@
+# Pamiętniki
+## 1660r. - streszczenie
+Pewnego razu, w czasie jednej z wypraw wojennych, Pasek został zaproszony na ucztę do pana Marcjana Jasińskiego. Byli tam też krewni gospodarza - panowie Nuczyńscy. Podczas biesiady jeden z Nuczyńskich zaczął prowokować Paska do pojedynku. Ten - nie chcąc łamać regulaminu zabraniającego pojedynków w obozie wojskowym - wyszedł z namiotu i poszedł do siebie. Jednak Nuczyński dogonił go i zaczął na niego nastawać. Gawędziarz, który wziął już swoją szablę, odpierał ataki i ciął swego adwersarza przez palce prawej ręki. Ów, nie zważając na to, napierał dalej. Wówczas Pasek cięciem w szyję przeciwnika zakończył pojedynek. Chwilę później nadbiegł młodszy brat pokonanego - nie mniej od niego pijany - i również zaatakował. Autor Pamiętników w czasie walki odciął mu rękę. Nadszedł po tym gospodarz uczty - Jasiński - i widząc, co się stało, wyzwał Paska na pojedynek, a następnie poprowadził go pod las, poza granicę obozu. W czasie przejścia przez kładkę puścił gawędziarza przodem i zadał mu z tyłu cios w głowę. Na szczęście cios nie odniósł zamierzonego skutku. Pasek upadł do strumienia, zaraz jednak wydostał się na drugi brzeg i stanął naprzeciw Jasińskiego. Starli się i po krótkiej, ale zaciętej walce Pasek zadał przeciwnikowi dwie poważne rany, a później - w odwecie za zdradziecki cios - obił go płazem szabli.
+## Pasek jako bohater i autor Pamiętników
+Pasek nazywa siebie podwójnym obywatelem („utraque civis”), ponieważ jest „i szlachcicem i żołnierzem”. Jako żołnierz Pasek bierze udział w wyprawach na Węgry, walczy w Danii, bierze udział w wojnie z Moskwą i w pospolitym ruszeniu przeciw Turkom. W tym okresie Pasek łączy cechy walecznego, odważnego żołnierza z przymiotami, używając współczesnego określenia, ciekawego świata turysty.
+![pasek zdjęcie](https://www.autobaza.pl/page/wp-content/uploads/2014/02/passat-b5-1-9-tdi-autobaza.jpg)
+pasek zdjecie szukaj <br />
+dziadku to sie nei tu wpisuje <br />
+aha <br />
