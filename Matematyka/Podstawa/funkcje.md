@@ -28,6 +28,30 @@ $f(x)$ stała w przedziale $<4, 7>$
 ### Punkt przecięcia z osią Y
 Punkt w którym funkcja przecina się z osią Y  
 $x \in (0, 3)$  
+## Przekształcenia wykresu funkcji
+![](images/f-odczytywanie-wlasnosci.png)  
+
+### Przesunięcie w górę f(x) + 2
+![](images/f-przesuniecie-gora.png)  
+Odczytujemy znak taki jakim jest
+### Przesunięcie w dół f(x) - 2
+![](images/f-przesuniecie-dol.png)  
+Odczytujemy znak taki jakim jest
+### Przesunięcie w prawo f(x - 2)
+![](images/f-przesuniecie-prawo.png)  
+Odczytujemy ze zmianą znaku
+### Przesunięcie w lewo f(x + 2)
+![](images/f-przesuniecie-lewo.png)  
+Odczytujemy ze zmianą znaku
+### Przekształcenia/Odbicia funkcji
+Funkcja f(x)
+![](images/f-odczytywanie-wlasnosci.png)  
+#### Względem osi X
+Funkcja -f(x)  
+![](images/f-przeksztalcenia-x.png)  
+#### Względem osi Y
+Funkcja f(-x)  
+![](images/f-przeksztalcenia-y.png)  
 ## Liniowa
 **Wzór ogólny:**  
 $f(x) = ax + b$  
