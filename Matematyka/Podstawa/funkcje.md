@@ -1,4 +1,33 @@
 # Funkcje
+## Odczytywanie wartości funkcji
+Mamy taką funkcję:  
+![](images/f-odczytywanie-wlasnosci.png)  
+
+### Dziedzina funkcji
+Jest to zakres wartości funkcji na osi X  
+$D_f \in <-5, 7>$
+### Zbiór wartości funkcji
+Jest to zakres wartości czyli rozwiązań funkcji. Wszystkie wartości z osi Y  
+$ZW = <-4, 3>$  
+### Miejsce zerowe
+Punkt, w którym rozwiązaniem funkcji jest 0. Punkt X w którym funkcja styka się z 0 na osi Y  
+$x_0 = -2$  
+### Wartości minimalne i maksymalne funkcji
+Największa i najmniejsza wartość Y funkcji  
+$f_{max} = 3$ dla $x = 0$  
+$f_{min} = -4$ dla $x = -5$  
+### Wartości większe i mniejsze od zera
+Przedziały wartości na osi X dla których rozwiązania funkcji są większe lub mniejsze od zera  
+$f(x) > 0$ dla $x \in (-2, 7>$  
+$f(x) < 0$ dla $x \in <-5, 2)$  
+### Monotoniczność funkcji
+Przedziały wartości, dla których funkcja jest rosnąca, stała lub malejąca  
+$f(x)$ rosnące w przedziale $<-5, 0>$  
+$f(x)$ malejące w przedziale $<0, 4>$  
+$f(x)$ stała w przedziale $<4, 7>$  
+### Punkt przecięcia z osią Y
+Punkt w którym funkcja przecina się z osią Y  
+$x \in (0, 3)$  
 ## Liniowa
 **Wzór ogólny:**  
 $f(x) = ax + b$  
