@@ -17,3 +17,9 @@
 - [Piotr Skarga (Funkcja perswazyjna)](Renesans/skarga.md)
 - [Boccaccio](Renesans/boccaccio.md)
 - [Odprawa posłów greckich](Renesans/odprawa-poslow-greckich.md)
+
+## Barok
+- [Don Kichot](Barok/Don%20Kichot.md)
+- [Makbet](Barok/Makbet.md)
+- [Pamiętniki](Barok/Pamiętniki.md)
+- [Skąpiec](Barok/Skąpiec.md)
